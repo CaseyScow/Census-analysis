@@ -5,4 +5,4 @@ post-covid migration and how it may or may not have changed where people are goi
 to look at the cost of living and determine if there are positive or negative correlations.
 
 Team Members:
-Casey Scow 
+Casey Scow
