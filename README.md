@@ -9,3 +9,8 @@ Casey Scow
 Taylor Casteel
 David Roth
 Joe Martinez
+
+	• Starting Sources
+		○ US Census data: https://data.census.gov/
+		○ Home pricing data: 
+			 Redfin and Rockethomemortgage
