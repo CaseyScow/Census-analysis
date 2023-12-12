@@ -6,3 +6,7 @@ to look at the cost of living and determine if there are positive or negative co
 
 Team Members:
 Casey Scow 
+Taylor Casteel
+David Roth
+Joe Martinez
+Priya
