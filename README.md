@@ -1,8 +1,11 @@
 # Census-analysis
-Our objective is to analyze the data of the US Census Bureau for migration patterns within the US. 
-We plan to find the most and least popular locations. Our analysis will also show pre-covid and
-post-covid migration and how it may or may not have changed where people are going. Finally, we plan
-to look at the cost of living and determine if there are positive or negative correlations.
+Our objective is to analyze the data of the US Census Bureau for migration patterns within the state of Texas. 
+We plan to find the most and least popular locations. We also plan to look at the common weather patterns and determine if there are positive or negative correlations. 
+
+Proposal Questions: 
+1) What area had the largest amount of growth?
+2) What area had the largest decrease is population?
+3) Is there a strong coorelation between weather and population?
 
 Team Members:
 Casey Scow 
