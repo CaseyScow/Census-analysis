@@ -14,11 +14,11 @@ David Roth
 Joe Martinez
 Priya
 
-***Resources***
-Matplotlib
-Pandas
-Numpy
-Spicy.Stats
+***Resources:***
+Matplotlib,
+Pandas,
+Numpy,
+Spicy.Stats,
 Pathlib
 
 ![Matplotlib](https://github.com/CaseyScow/Census-analysis/assets/146591613/496e085a-7a92-44dc-ba58-b732cf43d103)
