@@ -13,3 +13,10 @@ Taylor Casteel
 David Roth
 Joe Martinez
 Priya
+
+***Resources***
+Matplotlib
+Pandas
+Numpy
+Spicy.Stats
+Pathlib
