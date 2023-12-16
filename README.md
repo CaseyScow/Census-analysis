@@ -4,8 +4,8 @@ We plan to find the most and least popular locations. We also plan to look at th
 
 Proposal Questions: 
 1) What area had the largest amount of growth?
-2) What area had the largest decrease is population?
-3) Is there a strong coorelation between weather and population?
+2) What area had the largest decrease in population?
+3) Is there a strong correlation between weather and population?
 
 Team Members:
 Casey Scow 
@@ -20,3 +20,5 @@ Pandas
 Numpy
 Spicy.Stats
 Pathlib
+
+![Matplotlib](https://github.com/CaseyScow/Census-analysis/assets/146591613/496e085a-7a92-44dc-ba58-b732cf43d103)
