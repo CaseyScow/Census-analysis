@@ -22,3 +22,11 @@ Spicy.Stats
 Pathlib
 
 ![Matplotlib](https://github.com/CaseyScow/Census-analysis/assets/146591613/496e085a-7a92-44dc-ba58-b732cf43d103)
+
+![Numpy](https://github.com/CaseyScow/Census-analysis/assets/146591613/de410f99-805c-4b9d-b681-eb87b0292e7e)
+
+![Pandas](https://github.com/CaseyScow/Census-analysis/assets/146591613/09c2f553-594e-4621-bc09-8cc577322a31)
+
+![Python](https://github.com/CaseyScow/Census-analysis/assets/146591613/4e1bffb2-b719-4cb1-88ba-e524092105bd)
+
+![SciPy](https://github.com/CaseyScow/Census-analysis/assets/146591613/e8855068-4509-400a-9f72-f4b95d574a87)
