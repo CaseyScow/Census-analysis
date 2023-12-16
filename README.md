@@ -8,10 +8,10 @@ Proposal Questions:
 3) Is there a strong correlation between weather and population?
 
 Team Members:
-Casey Scow 
-Taylor Casteel
-David Roth
-Joe Martinez
+Casey Scow, 
+Taylor Casteel,
+David Roth,
+Joe Martinez,
 Priya
 
 ***Resources:***
