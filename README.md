@@ -8,6 +8,7 @@ Proposal Questions:
 3) Is there a strong correlation between employment rate and population?
 
 Team Members:
+
 Casey Scow, 
 Taylor Casteel,
 David Roth,
@@ -30,3 +31,7 @@ Python
 ![Python](https://github.com/CaseyScow/Census-analysis/assets/146591613/4e1bffb2-b719-4cb1-88ba-e524092105bd)
 
 ![SciPy](https://github.com/CaseyScow/Census-analysis/assets/146591613/e8855068-4509-400a-9f72-f4b95d574a87)
+
+
+
+	
