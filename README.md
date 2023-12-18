@@ -1,4 +1,5 @@
 # Census-analysis
+
 Our objective is to analyze the data of the US Census Bureau for migration patterns within the state of Texas. 
 We plan to find the most and least popular locations. We will also examine the employment rate to determine if there are positive or negative correlations.
 
@@ -19,7 +20,7 @@ Priya
 Matplotlib,
 Pandas,
 Numpy,
-Spicy.Stats,
+SciPy.Stats,
 Python
 
 ![Matplotlib](https://github.com/CaseyScow/Census-analysis/assets/146591613/496e085a-7a92-44dc-ba58-b732cf43d103)
@@ -35,3 +36,4 @@ Python
 
 
 	
+
